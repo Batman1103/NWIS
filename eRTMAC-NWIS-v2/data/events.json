@@ -1,0 +1,110 @@
+[
+  {
+    "id": "E001",
+    "well_id": "W-108",
+    "depth": 2570,
+    "formation": "Fm-X",
+    "formation_top": 2420,
+    "event_type": "Mud Loss",
+    "severity": "High",
+    "outcome": "Recovered",
+    "source": "W108_DDR.pdf",
+    "page": 14
+  },
+  {
+    "id": "E002",
+    "well_id": "W-108",
+    "depth": 2630,
+    "formation": "Fm-X",
+    "formation_top": 2420,
+    "event_type": "Torque Increase",
+    "severity": "Medium",
+    "outcome": "Resolved",
+    "source": "W108_DDR.pdf",
+    "page": 18
+  },
+  {
+    "id": "E003",
+    "well_id": "W-108",
+    "depth": 2690,
+    "formation": "Fm-X",
+    "formation_top": 2420,
+    "event_type": "Stuck Pipe",
+    "severity": "High",
+    "outcome": "Resolved",
+    "source": "W108_WCR.pdf",
+    "page": 21
+  },
+  {
+    "id": "E004",
+    "well_id": "W-112",
+    "depth": 2490,
+    "formation": "Fm-X",
+    "formation_top": 2400,
+    "event_type": "Torque Increase",
+    "severity": "Medium",
+    "outcome": "Resolved",
+    "source": "W112_DDR.pdf",
+    "page": 12
+  },
+  {
+    "id": "E005",
+    "well_id": "W-112",
+    "depth": 2550,
+    "formation": "Fm-X",
+    "formation_top": 2400,
+    "event_type": "Mud Loss",
+    "severity": "High",
+    "outcome": "Recovered",
+    "source": "W112_WCR.pdf",
+    "page": 16
+  },
+  {
+    "id": "E006",
+    "well_id": "W-119",
+    "depth": 2610,
+    "formation": "Fm-X",
+    "formation_top": 2460,
+    "event_type": "Stuck Pipe",
+    "severity": "High",
+    "outcome": "Resolved",
+    "source": "W119_DDR.pdf",
+    "page": 25
+  },
+  {
+    "id": "E007",
+    "well_id": "W-119",
+    "depth": 2660,
+    "formation": "Fm-X",
+    "formation_top": 2460,
+    "event_type": "Kick",
+    "severity": "High",
+    "outcome": "Controlled",
+    "source": "W119_DDR.pdf",
+    "page": 28
+  },
+  {
+    "id": "E008",
+    "well_id": "W-131",
+    "depth": 2620,
+    "formation": "Fm-Z",
+    "formation_top": 2500,
+    "event_type": "Mud Loss",
+    "severity": "Medium",
+    "outcome": "Recovered",
+    "source": "W131_DDR.pdf",
+    "page": 11
+  },
+  {
+    "id": "E009",
+    "well_id": "W-140",
+    "depth": 2710,
+    "formation": "Fm-Y",
+    "formation_top": 2550,
+    "event_type": "Torque Increase",
+    "severity": "Medium",
+    "outcome": "Resolved",
+    "source": "W140_DDR.pdf",
+    "page": 9
+  }
+]

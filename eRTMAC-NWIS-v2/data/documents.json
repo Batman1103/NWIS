@@ -1,0 +1,22 @@
+[
+  {
+    "filename": "W108_DDR_demo.pdf",
+    "well_id": "W-108",
+    "document_type": "DDR"
+  },
+  {
+    "filename": "W108_WCR.pdf",
+    "well_id": "W-108",
+    "document_type": "WCR"
+  },
+  {
+    "filename": "W112_DDR.pdf",
+    "well_id": "W-112",
+    "document_type": "DDR"
+  },
+  {
+    "filename": "W119_DDR.pdf",
+    "well_id": "W-119",
+    "document_type": "DDR"
+  }
+]
